@@ -26,7 +26,7 @@ Now this repo contains my self-generated json and obj file from:
 
 3. Since your browser might have blocked local file input using `file://` protocol, you should start a web-server: 
 
-either `npx serve .` or `python -m http.server 8000` is OK, depending your web-server environment.
+either `npx serve .` or `python -m http.server 8000` is OK, depending on your web-server environment.
 
 ## Preveiw
 
